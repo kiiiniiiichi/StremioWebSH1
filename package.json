@@ -1,12 +1,11 @@
 {
-  "name": "@xHiqhAim/StremioWebSH",
-  "appName": "Stremio Web Self-Hosted",
-  "appPath": "app/index.html"
+  "name": "@xHiqhAim/StremioWebSH1",
+  "appName": "StremioWebSH",
   "version": "1.0",
-  "description": "Stremio Web Self-Hosted Edition for personal use",
-  "packageType": "app",
+  "description": "StremioWeb SelfHosted Edition Personal use",
+  "packageType": "mods",
   "websiteURL": "http://192.168.1.52:8080/",
-  "serviceFile": "scripts/userScript.js",
+  "main": "scripts/userScript.js",
   "author": "xHiqhAim",
   "keys": [
     "MediaPlayPause",
@@ -19,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/kiiiniiiichi/StremioWebSH1"
+    "url": "https://github.com/kiiiniiiichi/StremioWebSH"
   },
   "license": "GPL-3.0-only"
 }
